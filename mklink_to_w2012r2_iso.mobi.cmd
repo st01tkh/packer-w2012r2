@@ -1,0 +1,1 @@
+mklink iso_folder\en_windows_server_2012_r2_vl_with_update_x64_dvd_4065221.iso "C:\Users\talex_id\VM\packer\w2012r2\iso_folder\Windows Server 2012 R2 with Update\en_windows_server_2012_r2_vl_with_update_x64_dvd_4065221.iso"
